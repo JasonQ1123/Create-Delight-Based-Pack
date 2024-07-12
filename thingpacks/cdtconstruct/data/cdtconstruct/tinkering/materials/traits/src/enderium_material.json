@@ -1,0 +1,24 @@
+{
+  "perStat": {
+    "tconstruct:melee_harvest": [
+      {
+        "name": "tconstruct:enderference",
+        "level": 1
+      },
+      {
+        "name": "tinkers_ingenuity:alien",
+        "level": 1
+      }
+    ],
+    "tconstruct:ranged": [
+      {
+        "name": "tconstruct:enderference",
+        "level": 1
+      },
+      {
+        "name": "tinkers_ingenuity:alien",
+        "level": 1
+      }
+    ]
+  }
+}

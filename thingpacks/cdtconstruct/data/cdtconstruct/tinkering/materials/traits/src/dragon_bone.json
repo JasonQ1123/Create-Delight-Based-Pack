@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "name": "tinkers_ingenuity:fractured",
+      "level": 1
+    },
+    {
+      "name": "tconstruct:pierce",
+      "level": 2
+    }
+  ]
+}

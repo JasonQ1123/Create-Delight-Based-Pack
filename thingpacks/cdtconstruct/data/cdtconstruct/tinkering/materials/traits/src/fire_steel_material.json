@@ -1,0 +1,24 @@
+{
+  "perStat": {
+    "tconstruct:melee_harvest": [
+      {
+        "name": "tinkers_ingenuity:fire_sdragon",
+        "level": 1
+      },
+      {
+        "name": "tinkers_ingenuity:blazing_fire",
+        "level": 1
+      }
+    ],
+    "tconstruct:ranged": [
+      {
+        "name": "tinkers_ingenuity:fire_sdragon",
+        "level": 1
+      },
+      {
+        "name": "tinkers_ingenuity:blazing_fire",
+        "level": 1
+      }
+    ]
+  }
+}

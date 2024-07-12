@@ -1,0 +1,20 @@
+{
+  "default": [
+    {
+      "name": "tconstruct:insatiable",
+      "level": 1
+    },
+    {
+      "name": "tconstruct:enderference",
+      "level": 1
+    },
+    {
+      "name": "tinkers_ingenuity:final_land",
+      "level": 1
+    },
+    {
+      "name": "tinkers_ingenuity:ender_hurt",
+      "level": 1
+    }
+  ]
+}
