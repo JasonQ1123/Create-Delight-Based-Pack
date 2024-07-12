@@ -26,5 +26,4 @@ ServerEvents.recipes(e => {
     melting(e, "create:experience_nugget", ["create_enchantment_industry:experience", 10], 1000, 20)
     melting(e, "create_sa:heap_of_experience", ["create_enchantment_industry:experience", 90], 1000, 180)
     melting(e, "create:experience_block", ["create_enchantment_industry:experience", 810], 1000, 1620)
-
 })
