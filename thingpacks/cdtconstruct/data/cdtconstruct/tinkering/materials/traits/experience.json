@@ -1,0 +1,7 @@
+{
+    "default": [
+        { "name": "tconstruct:shiny", "level": 1 },
+        { "name": "tconstruct:experienced", "level": 1},
+        { "name": "cdtconstruct:mending" }
+    ]
+}

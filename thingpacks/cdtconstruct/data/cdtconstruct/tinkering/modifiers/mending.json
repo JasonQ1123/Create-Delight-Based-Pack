@@ -1,0 +1,11 @@
+{
+    "type": "tconstruct:composable",
+    "tooltip_display":"always",
+    "level_display": "tconstruct:no_levels",
+    "modules": [
+        {
+            "type": "tconstruct:constant_enchantment",
+            "name": "minecraft:mending"
+        }
+    ]
+}
