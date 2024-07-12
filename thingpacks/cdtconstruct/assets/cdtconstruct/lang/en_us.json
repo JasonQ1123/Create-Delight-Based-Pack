@@ -1,5 +1,7 @@
 {
-    "material.cdtconstruct.experience": "Experience Heap",
+    "material.cdtconstruct.experience": "Experience ingot",
+    "material.cdtconstruct.experience.flavor":"Experience that jingles and rings!",
+    "material.cdtconstruct.experience.encyclopedia": "Consuming experience orbs to restore durability, with each point of experience recovering 2 points of durability.",
     "modifier.cdtconstruct.mending": "Mending",
     "modifier.cdtconstruct.mending.flavor": "SELF-PATCH!!",
     "modifier.cdtconstruct.mending.description": "Use experience to self-patch!"

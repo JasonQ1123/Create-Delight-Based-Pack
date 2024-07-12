@@ -1,5 +1,7 @@
 {
-    "material.cdtconstruct.experience": "经验堆",
+    "material.cdtconstruct.experience": "经验锭",
+    "material.cdtconstruct.experience.flavor": "叮当作响的经验！",
+    "material.cdtconstruct.experience.encyclopedia": "通过消耗经验球来恢复耐久值，每1点经验值恢复2点耐久",
     "modifier.cdtconstruct.mending": "经验修复",
     "modifier.cdtconstruct.mending.flavor": "自我修复！！",
     "modifier.cdtconstruct.mending.description": "利用经验进行自我修复！"
