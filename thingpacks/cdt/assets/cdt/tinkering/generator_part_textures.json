@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "parts": [
+        { "path": "cdt:item/tool/battlesign/sign_plate",          "statType": "tconstruct:head" },
+        { "path": "cdt:item/tool/battlesign/broken_sign_plate",   "statType": "tconstruct:head" },
+        { "path": "cdt:item/tool/battlesign/tool_handle",         "statType": "tconstruct:handle" }      
+    ]
+}

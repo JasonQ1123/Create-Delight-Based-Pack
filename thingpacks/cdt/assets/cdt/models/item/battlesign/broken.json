@@ -1,0 +1,12 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "sign_plate":           "cdt:item/tool/battlesign/broken_sign_plate",
+    "tool_handle":          "cdt:item/tool/battlesign/tool_handle"
+  },
+  "parts": [
+    { "name": "tool_handle",    "index": 1 },
+    { "name": "sign_plate",     "index": 0 }
+  ]
+}

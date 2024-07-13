@@ -1,0 +1,22 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "sign_plate":           "cdt:item/tool/battlesign/sign_plate",
+    "tool_handle":          "cdt:item/tool/battlesign/tool_handle"
+  },
+  "parts": [
+    { "name": "tool_handle",    "index": 1 },
+    { "name": "sign_plate",     "index": 0 }
+  ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:charging": 2 },
+      "model": "cdt:item/battlesign/blocking"
+    },
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "cdt:item/battlesign/broken"
+    }
+  ]
+}
